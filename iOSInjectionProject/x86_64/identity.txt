@@ -1,0 +1,2 @@
+/Users/apple/Library/Developer/Xcode/DerivedData/YuCheng-drobmxwxcznukgcsnheunyheztom/Build/Products/Debug-iphonesimulator/YuCheng.app
+iPhone Developer
